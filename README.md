@@ -6,132 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DAA Assignment - LeetCode Solutions</title>
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: Arial, Helvetica, sans-serif;
-        }
-
-        body {
-            background: #eef3f8;
-            color: #333;
-        }
-
-        .container {
-            width: 90%;
-            max-width: 1200px;
-            margin: 40px auto;
-            background: #fff;
-            border-radius: 12px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-            overflow: hidden;
-        }
-
-        header {
-            background: linear-gradient(135deg, #0d6efd, #0b5ed7);
-            color: white;
-            text-align: center;
-            padding: 35px;
-        }
-
-        header h1 {
-            font-size: 36px;
-        }
-
-        header p {
-            margin-top: 10px;
-            font-size: 18px;
-        }
-
-        section {
-            padding: 30px;
-        }
-
-        h2 {
-            color: #0d6efd;
-            margin-bottom: 15px;
-            border-left: 6px solid #0d6efd;
-            padding-left: 10px;
-        }
-
-        p {
-            margin-bottom: 15px;
-            line-height: 1.7;
-        }
-
-        ul {
-            margin-left: 20px;
-            margin-bottom: 20px;
-        }
-
-        li {
-            margin: 8px 0;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0 40px;
-        }
-
-        th {
-            background: #0d6efd;
-            color: white;
-            padding: 14px;
-        }
-
-        td {
-            padding: 12px;
-            border: 1px solid #ddd;
-        }
-
-        tr:nth-child(even) {
-            background: #f8f9fa;
-        }
-
-        tr:hover {
-            background: #eaf2ff;
-        }
-
-        a {
-            color: #0d6efd;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .info {
-            background: #f7fbff;
-            border-left: 5px solid #0d6efd;
-            padding: 20px;
-            border-radius: 8px;
-            margin-top: 20px;
-        }
-
-        footer {
-            background: #0d6efd;
-            color: white;
-            text-align: center;
-            padding: 18px;
-            font-size: 15px;
-        }
-
-        @media(max-width:768px){
-            table{
-                font-size:14px;
-            }
-
-            header h1{
-                font-size:28px;
-            }
-        }
-
-    </style>
 </head>
 
 <body>
@@ -288,12 +162,12 @@ thinking, optimized implementation, and complexity analysis.
 
 <tr>
 <td><b>Name</b></td>
-<td>________________________</td>
+<td> MANAN PATEL</td>
 </tr>
 
 <tr>
 <td><b>Enrollment Number</b></td>
-<td>________________________</td>
+<td> 2503051057064 </td>
 </tr>
 
 <tr>
@@ -311,7 +185,7 @@ thinking, optimized implementation, and complexity analysis.
 </section>
 
 <footer>
-© 2026 DAA Assignment | LeetCode Java Solutions
+© 2026 DAA Assignments | LeetCode Solutions
 </footer>
 
 </div>
