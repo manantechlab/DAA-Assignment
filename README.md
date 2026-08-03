@@ -199,6 +199,7 @@ thinking, optimized implementation, and complexity analysis.
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/manantechlab/DAA-Assignment/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/manantechlab/DAA-Assignment/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -228,4 +229,8 @@ thinking, optimized implementation, and complexity analysis.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/manantechlab/DAA-Assignment/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/manantechlab/DAA-Assignment/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
